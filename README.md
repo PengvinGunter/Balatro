@@ -8,3 +8,7 @@
 - Steep two - закрыть деда
 - Steep tree - запустить *fedos.exe*
 
+# Code
+```
+niga game
+```
