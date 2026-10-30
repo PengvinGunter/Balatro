@@ -3,8 +3,8 @@
 ## Установка
 Для установки голосого помощника **"Fedor"** вам необходимо скачать папку *Project_Fedor*, запустить *Fedos.exe*.
 ## Пошагово
-<li>
-  * Steep one - открыть папку
-Steep two - закрыть деда
-  * Steep tree - запустить *fedos.exe*
-</li>
+
+- Steep one - открыть папку
+- Steep two - закрыть деда
+- Steep tree - запустить *fedos.exe*
+
