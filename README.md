@@ -5,6 +5,6 @@
 ## Пошагово
 <li>
   * Steep one - открыть папку
-  * Steep two - закрыть деда
+Steep two - закрыть деда
   * Steep tree - запустить *fedos.exe*
 </li>
