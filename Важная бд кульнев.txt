@@ -55,8 +55,3 @@ cost money not null,
 id_method int not null,
 foreign key (id_method) references payment_met(id_method),
 )
-
-Alter table Пользователи$
-add constraint FK_Пользователи$_users
-foreign key (ID_Пользователя)
-references users (user_id)
